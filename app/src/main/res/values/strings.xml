@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Signup Forms</string>
+    <string-array name="roles">
+        <item>Ciudadano</item>
+        <item>Responsable de ingresar estadisticas</item>
+        <item>Funcionario responsable de toma de desiciones</item>
+    </string-array>
+
+</resources>
